@@ -3,7 +3,7 @@
 
 - command line interface app and SDL library
 - built with C
-- a menu with some 
+- presents the basics notions of first aid
 
 ### App Preview:
 #### Menu
