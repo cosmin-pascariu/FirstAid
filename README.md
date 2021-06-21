@@ -6,6 +6,8 @@
 - a menu with some 
 
 #### App Preview:
+### Menu
+![](practice_project/poze_proiect/)
 ![](practice_project/poze_proiect/first_page.png)
 ![](practice_project/poze_proiect/menu_aid.png)
 #### Example of option
