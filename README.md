@@ -9,6 +9,7 @@
 #### Menu
 ![](practice_project/poze_proiect/Base.png)
 ![](practice_project/poze_proiect/first_page.png)
+#### Possible options
 ![](practice_project/poze_proiect/menu_aid.png)
 #### Example of selected option
 ![](practice_project/poze_proiect/resuscitare1.png)
