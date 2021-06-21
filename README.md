@@ -8,7 +8,7 @@
 #### App Preview:
 ![](practice_project/poze_proiect/first_page.png)
 ![](practice_project/poze_proiect/menu_aid.png)
-#### Option
+#### Example of option
 ![](practice_project/poze_proiect/resuscitare1.png)
 ![](practice_project/poze_proiect/resuscitare2.png)
 
